@@ -9,4 +9,7 @@ set max value to input tag with id (jquery)
 
 
 ## mobile hide address bar
+
 <meta name="apple-mobile-web-app-capable" content="yes" />
+
+
