@@ -16,3 +16,5 @@ set max value to input tag with id (jquery)
 
 https://docs.microsoft.com/ko-kr/gaming/playfab/features/authentication/platform-specific-authentication/running-an-http-server-for-testing
 
+can create server on local port with out apache
+
